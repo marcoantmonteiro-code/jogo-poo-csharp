@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET: Jogobase",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/Jogobase/bin/Debug/net9.0/Jogobase.dll",
+      "cwd": "${workspaceFolder}/Jogobase",
+      "console": "internalConsole"
+    }
+  ]
+}
